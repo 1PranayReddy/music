@@ -1,0 +1,54 @@
+
+body{
+  background-color: #ffd5cd;
+
+}
+h1{
+  margin-bottom: 100px;
+  font-size:50px;
+  font-family: 'Grenze Gotisch', cursive;
+  color:#af2d2d;
+}
+h2{
+
+  margin-top: 40px;
+}
+h3{
+  display:inline-block;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+p{
+  font-size: 20px;
+  font-family: 'Dosis', sans-serif;
+  line-height: 1.5;
+
+}
+td{
+  padding-left:20px;
+}
+.billie{
+  width:50%;
+  padding-bottom: 20px;
+}
+.billie-img{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.music{
+  margin-left: 200px;
+}
+.shawn-img{
+  width:25%;
+  border-radius:50%;
+  float: left;
+  margin-right: 30px;
+}
+.shawn-mendes{
+  width:50%;
+}
+.shawn-div{
+  margin-bottom: 100px;
+}
